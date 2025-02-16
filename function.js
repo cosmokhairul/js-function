@@ -12,3 +12,10 @@ function sum(x,y){
 }
 
 sum(10,5);
+
+function square(num){
+    const borgo = num*num;
+    console.log(borgo)
+}
+
+square(5);
