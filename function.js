@@ -19,3 +19,10 @@ function square(num){
 }
 
 square(5);
+
+function multiplication(num1, num2){
+    const result = num1 * num2;
+    console.log(result);
+}
+
+multiplication(5, 9);
